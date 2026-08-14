@@ -1,7 +1,7 @@
 [app]
 name = "tunnel"
 version = "0.1.0"
-description = "Expose a local web application through your OpenHost instance via Chisel reverse tunnel."
+description = "Expose a local web application through your Cloud in a Bottle instance via Chisel reverse tunnel."
 authors = ["Andrew Laack <andrew@laack.co>"]
 
 [runtime.container]
